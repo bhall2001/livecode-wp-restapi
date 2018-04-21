@@ -7,12 +7,10 @@ Forked from the original Digital Pomagranite livecode-wp-restapi. I created this
 
 ## Roadmap
 
-- [] Create initial fork
+- [X] Create initial fork
 - [] Convert library to script only stacks
 - [] Create unit tests with a TBD Livecode testing framework
 - [] Refactor code
 - [] Add JWT authentication
 - [] Implement tsNet async calls for appropriate Livecode licenses
 - [] Create documentation on how to use the Library
-
-
